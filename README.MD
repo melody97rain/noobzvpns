@@ -36,7 +36,7 @@ git clone https://github.com/melody97rain/noobzvpns.git && cd noobzvpns && chmod
 ```
 ##### Full Uninstall
 ```bash
-git clone https://github.com/melody97rain/noobzvpns.git && noobzvpns/uninstall.sh
+git clone https://github.com/melody97rain/noobzvpns.git && cd noobzvpns && chmod +x uninstall.sh && /uninstall.sh
 ```
 
 
